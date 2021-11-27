@@ -1,0 +1,44 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+future = "*"
+futures = "*"
+gremlinpython = "==3.3.7"
+pika = "==1.1.0"
+kafka-python = "*"
+simplejson = "*"
+flatten-json = "==0.1.6"
+addict = "*"
+pystache = "*"
+flask-blueprint = "*"
+flask-swagger = "*"
+gevent = "==1.4.0"
+gevent-websocket = "==0.10.1"
+greenlet = "==0.4.16"
+importlib-metadata = "*"
+importlib-resources = "*"
+jsonschema = "*"
+graphene = "==2.1.8"
+graphql-core = "==2.2.1"
+graphql-relay = "==2.0.0"
+graphql-server-core = "==1.1.1"
+graphql-ws = "==0.3.1"
+requests = "==2.26.0"
+python-graphql-client = "==0.4.3"
+PyYAML = "*"
+Flask = "==1.1.1"
+Flask-RESTful = "*"
+Flask-Cors = "*"
+Flask-SocketIO = "*"
+Flask-Sockets = "==0.2.1"
+Flask-GraphQL = "==2.0.0"
+Werkzeug = "==0.15.5"
+Rx = "==1.6.1"
+
+[requires]
+python_version = "3.8"
